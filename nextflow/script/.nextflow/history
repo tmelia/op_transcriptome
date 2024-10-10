@@ -1,0 +1,8 @@
+2024-09-12 08:30:31	4.7s	pensive_shockley	ERR	cb1d896061238a7913f5e2f888395fcc	ae27b611-f6a4-4f4a-a961-b9165de9d94e	nextflow run test.nf
+2024-10-10 07:43:46	2.7s	stupefied_yonath	ERR	6542a6fe9af515cd93bde7ef860806c9	ef12d357-4a3b-4cba-942f-7af9624ae755	nextflow run test.nf
+2024-10-10 07:44:41	2.9s	extravagant_faraday	ERR	4dc72861ccc29b906605d7e00fc9a197	2e5ddfc6-83a3-40d6-ac06-f7a66df35cfc	nextflow run test.nf
+2024-10-10 07:48:15	2.1s	suspicious_ride	OK	f9081b0cd14954914232b6dc7742de4e	b7358074-f668-4b90-92eb-51dde3386743	nextflow run copy1.nf
+2024-10-10 07:49:42	2.2s	hungry_coulomb	OK	f9081b0cd14954914232b6dc7742de4e	37e96a15-cce3-44e7-b23a-e0cce40e8ab7	nextflow run copy1.nf
+2024-10-10 07:50:37	1.8s	modest_celsius	OK	f9081b0cd14954914232b6dc7742de4e	a6d81d6d-26ed-466d-90f5-cc4fae0528d1	nextflow run copy1.nf
+2024-10-10 07:51:21	-	modest_snyder	-	c594fd160111c2ccc3d06974c7ff1409	0a8d91fb-9d09-4a50-bb1e-9e3f3e4504c4	nextflow run copy1.nf
+2024-10-10 07:56:57	2.8s	hungry_leakey	OK	5fb94de7089ed9f69aad860489665e83	e9f2e310-cac5-4368-a2cb-acb97453e29a	nextflow run copy1.nf

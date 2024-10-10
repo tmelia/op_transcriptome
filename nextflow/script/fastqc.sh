@@ -12,9 +12,9 @@ echo "Running on node : $(hostname)"
 echo "Current directory : $(pwd)"
 echo "=========================================================="
 
-HOME="/path-ke-folder/op_transcriptome/nextflow"
-DATA="//path-ke-folder/op_transcriptome/nextflow/data/rna"
-QC="//path-ke-folder/op_transcriptome/nextflow/qc"
+HOME="/home/dwipapap/Projek/op_transcriptome/nextflow"
+DATA="/home/dwipapap/Projek/op_transcriptome/nextflow/data/rna"
+QC="/home/dwipapap/Projek/op_transcriptome/nextflow/qc"
 
 
 # execute job
