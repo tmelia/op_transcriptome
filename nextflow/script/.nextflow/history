@@ -6,3 +6,26 @@
 2024-10-10 07:50:37	1.8s	modest_celsius	OK	f9081b0cd14954914232b6dc7742de4e	a6d81d6d-26ed-466d-90f5-cc4fae0528d1	nextflow run copy1.nf
 2024-10-10 07:51:21	-	modest_snyder	-	c594fd160111c2ccc3d06974c7ff1409	0a8d91fb-9d09-4a50-bb1e-9e3f3e4504c4	nextflow run copy1.nf
 2024-10-10 07:56:57	2.8s	hungry_leakey	OK	5fb94de7089ed9f69aad860489665e83	e9f2e310-cac5-4368-a2cb-acb97453e29a	nextflow run copy1.nf
+2024-10-14 10:26:26	2.1s	confident_shannon	OK	5fb94de7089ed9f69aad860489665e83	72ec3d32-b073-44f3-ad0e-15ee9df4ac7d	nextflow run copy1.nf
+2024-10-14 10:30:49	-	irreverent_kay	-	5ab5da128e7b49859d13e49b04f57670	f4cf578c-dcf7-4361-929f-cacf30ff07b5	nextflow run test2.nf
+2024-10-14 10:34:24	-	drunk_shannon	-	508a10f41bec0f818f2a4e898c5fcadb	a47c6233-a61c-4ff7-aa10-c213f7ea4609	nextflow run test2.nf
+2024-10-14 10:36:38	2.9s	mighty_lattes	OK	c4f8352e883bddc1914df14a31f37d3f	3f1cde45-ba72-4662-9b60-887baca23c64	nextflow run test2.nf
+2024-10-14 10:37:50	-	infallible_tuckerman	-	df7faeeda3437acdac52c234f9fd6c12	50d505d6-37d5-498e-8cf5-77b7da2aee70	nextflow run test2.nf
+2024-10-14 10:42:15	-	drunk_albattani	-	8b6a4ff1630fc3eb2d1e0d832687d2c6	41e1be17-95d7-47be-9560-8cc4b7985895	nextflow run test2.nf
+2024-10-14 10:42:35	2.7s	sleepy_jang	OK	2cabef5ca5684e06bb4f0bda9a25bb3f	647edc5f-21b8-4f29-be11-e3ec43bc22dd	nextflow run test2.nf
+2024-10-14 14:16:53	2.4s	nauseous_engelbart	OK	2cabef5ca5684e06bb4f0bda9a25bb3f	a9ee96c2-ed54-45ec-808e-54f7cd1d4d84	nextflow run test2.nf
+2024-10-14 14:19:26	2.9s	marvelous_almeida	OK	2cabef5ca5684e06bb4f0bda9a25bb3f	60e1434e-d14a-4dc7-bad9-30b6bec27320	nextflow run test2.nf
+2024-10-14 14:21:29	2.1s	dreamy_thompson	OK	2cabef5ca5684e06bb4f0bda9a25bb3f	8505db58-25e9-4f69-ae32-e4c02c7f53eb	nextflow run test2.nf
+2024-10-14 14:31:08	3.7s	insane_agnesi	OK	2cabef5ca5684e06bb4f0bda9a25bb3f	01cdfdae-f07a-4059-abed-6bf2b1fc2d76	nextflow run test2.nf -with-report cek1.html
+2024-10-14 14:32:51	-	stupefied_feynman	-	56e0dfdf50b433c4040ffeff2543976e	deb5ef8b-06c7-4f7a-8b2d-5ed3732be812	nextflow run test2.nf -with-report cek1.html
+2024-10-14 14:37:56	2.4s	sharp_mcclintock	OK	c48affd2a2e1f6e7ec7036ed9a0419c9	980d6b29-7f9a-4e29-b8ed-49843b496f1b	nextflow run test2.nf
+2024-10-14 14:38:32	3.7s	reverent_bohr	OK	c48affd2a2e1f6e7ec7036ed9a0419c9	48722938-8be7-411c-a314-bfdd00d381cd	nextflow run test2.nf -with-report check1.html
+2024-10-14 14:39:57	2.9s	disturbed_venter	OK	5fb94de7089ed9f69aad860489665e83	67a50430-06e9-426a-a82a-ab204fe39c0c	nextflow run copy1.nf -with-report jalan1.html
+2024-10-14 14:41:12	2.2s	elated_northcutt	OK	0df95aeacda6fdb86cf386fe6ca20ff8	dca9c0f3-3d8c-4880-9c6b-c598219ee8ca	nextflow run test2.nf
+2024-10-14 14:42:27	2.5s	wise_bernard	OK	460a55f65fd390213b8d4e2eabc46fc1	83895b0f-59d4-4c77-a9f1-17a9b6368874	nextflow run test2.nf
+2024-10-18 08:11:21	3.5s	nauseous_almeida	OK	41716b2da339b4383e536d26f93bebdc	d6a5e873-ce08-4315-a398-efa04534cc70	nextflow run test3.nf -with-report ngetes1.html
+2024-10-18 08:13:31	-	stupefied_noether	-	eb9a58a895c7ae775d931b62d310ab02	18f8ff6e-2d45-4d47-a86f-3772df380e1c	nextflow run test3.nf -with-report ngetes1.html
+2024-10-18 08:13:42	4.6s	mad_almeida	OK	eb9a58a895c7ae775d931b62d310ab02	1dc34099-1584-4ed7-adcd-2a6eb9a755bc	nextflow run test3.nf -with-report ngetes1.html
+2024-10-18 08:13:57	4.7s	hungry_wozniak	OK	eb9a58a895c7ae775d931b62d310ab02	1207f1f0-c0d2-49d1-8ba3-87f99d86774c	nextflow run test3.nf -with-report ngetes1.html
+2024-10-18 08:15:04	-	trusting_laplace	-	eab899cfbb8781614862bacdcc0095c0	8ac59ffd-d816-446a-91e9-48841625667e	nextflow run test3.nf -with-report ngetes1.html
+2024-10-18 08:15:20	20.5s	crazy_gilbert	OK	eab899cfbb8781614862bacdcc0095c0	db24d9cc-1e41-4aaa-ac49-a03b112b9c71	nextflow run test3.nf -with-report ngetes1.html

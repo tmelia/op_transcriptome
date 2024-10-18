@@ -1,0 +1,17 @@
+nextflow.trace/v2
+realtime=12169
+%cpu=1209
+cpu_model=Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+rchar=29670470
+wchar=2058453
+syscr=42488
+syscw=7067
+read_bytes=18923520
+write_bytes=1093632
+%mem=32
+vmem=3597744
+rss=254572
+peak_vmem=3657596
+peak_rss=254572
+vol_ctxt=5
+inv_ctxt=62
